@@ -1,0 +1,10 @@
+1	Arctic Monkeys	https://www.youtube.com/watch?v=Nj8r3qmOoZ8
+2	Cage the Elephant	https://www.youtube.com/watch?v=n95eekfFZZg
+3	Franz Ferdinand	https://www.youtube.com/watch?v=Z1qPnSZDrAQ
+4	Imagine Dragons	https://www.youtube.com/watch?v=ktvTqknDobU
+5	Kasabian	https://www.youtube.com/watch?v=Jf3CPnDMVz0
+6	The Killers	https://www.youtube.com/watch?v=gGdGFtwCNBE
+7	Kings of Leon	https://www.youtube.com/watch?v=uLaJkbkG5NI
+8	Milky Chance	https://www.youtube.com/watch?v=ernVvrYH9vg
+9	Red Hot Chili Peppers	https://www.youtube.com/watch?v=8DyziWtkfBw
+10	The Smiths	https://www.youtube.com/watch?v=cJRP3LRcUFg
