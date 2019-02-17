@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Content-Type: text/plain; charset=UTF-8
+Connection: close
+
+Prvih 10 fibonaccijevih brojeva je:
+0
+1
+ 1
+
+2
+
+3
+
+5
+
+8
+
+13
+
+21
+
+34
