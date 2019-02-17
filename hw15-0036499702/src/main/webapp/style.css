@@ -1,0 +1,39 @@
+h1 { 
+	font-family: Arial;
+	text-align: center;
+	color: #a0143a;
+}
+
+h2, h3, h4, h5, h6 {
+	font-family: Arial;
+	color: #d81d55;	
+}
+
+body {
+	font-family: Courier New;
+	background-color: #f9e9c4;
+}
+
+p {
+	font-family: Courier New;
+}
+
+a {
+	color: #ff0909;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
