@@ -1,0 +1,41 @@
+h1 { 
+	font-family: Bookman;
+	text-align: center;
+	color: #0080c0;
+}
+
+h2, h3, h4, h5, h6 {
+	font-family: Bookman;
+	color: #35acce;	
+}
+
+button {
+	background-color: #518e95;
+	border-style: solid;
+	color: #ffffff;
+	border-radius: 6px;
+	cursor: pointer;
+	margin: 6px;
+	text-align: center;
+	font-family: "Gotham Rounded A", Helvetica, sans-serif;
+	padding: 10px 10px;
+	font-size: 12px;
+}
+button:active {
+	background-color: #400080;
+}
+img {
+	border-style: solid;
+	border-radius: 6px;
+	cursor: pointer;
+	margin: 10px;
+}
+
+body {
+	font-family: Courier New;
+	background-color: #c4f8f9;
+}
+
+p {
+	font-family: Courier New;
+}
